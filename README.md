@@ -15,6 +15,7 @@ Use this to run the bytedance-research/UI-TARS-2B-SFT model on any hardware that
    print("Public URL:", public_url)
    ```
 
-2. Create an Ngrok account and press 'Your Authtoken'. Then, copy this to your clipboard, and paste this in the [REPLACE THESE BRACKETS AND WORDS WITH YOUR authtoken] area. Then, you may run the model.
-3. Wait for the model to download. This should take a few minutes.
-4. 
+2. Create an Ngrok account and press 'Your Authtoken'. Then, copy this to your clipboard, and paste this in the [REPLACE THESE BRACKETS AND WORDS WITH YOUR authtoken] area.
+3. On the top, press the 'runtime' button, then press 'change runtime'. Finally, cnage your runtime to 'T4' and press 'Ok'. Now, you may run the model.
+4. Wait for the model to download. This should take a few minutes.
+5. 
