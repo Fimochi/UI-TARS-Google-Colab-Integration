@@ -13,6 +13,6 @@ Instructions:
     print("Public URL:", public_url)
     
     !vllm serve "bytedance-research/UI-TARS-2B-SFT" --limit-mm-per-prompt "image=5" --dtype=half &
-  ```
+   ```
 
 3. Create an Ngrok account and press 'Your Authtoken'. Then, copy this to your clipboard.
